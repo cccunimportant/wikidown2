@@ -1,0 +1,5 @@
+## 將 Wikidown 推上 github 成為開源靜態網站
+
+雖然 github 是開放原始碼的人用  git 版本管理系統發布專案的地方，但是卻也提供了 Github-Pages (gh-pages) 這一個版本可以讓人架設網站，在本文中，我們透過 wikidown 示範如何將專案發布到 github 上，並且架設成靜態網站的方法。
+
+雖然 wikidown 已經存在於 <https://github.com/ccckmit/wikidown.js> 這個網址上了，但是為了要重新示範一次，我們將創建一個新的專案，稱為 wikidown2 ，其網址將會位於 <https://github.com/ccckmit/wikidown2> 當中。
